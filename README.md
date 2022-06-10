@@ -18,7 +18,8 @@
 <br>
 <br>
   <br>
-  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true)
+
 [![Rawlinz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsrawlinz-jeff&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Rawlinz's github stats](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&theme=tokyonight) | ![Rawlinz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsrawlinz-jeff&theme=tokyonight) |
