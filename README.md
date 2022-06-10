@@ -19,11 +19,11 @@
 <br>
   <br>
   
-[![Rawlinz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsrawlinz-jeff664&theme=tokyonight)](https://git.io/praveenscience)
+[![Rawlinz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsrawlinz-jeff&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Rawlinz's github stats](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff664&show_icons=true&theme=tokyonight) | ![Rawlinz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsrawlinz-jeff664&theme=tokyonight) |
+| ![Rawlinz's github stats](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&theme=tokyonight) | ![Rawlinz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsrawlinz-jeff&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrawlinz-jeff664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrawlinz-jeff&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
