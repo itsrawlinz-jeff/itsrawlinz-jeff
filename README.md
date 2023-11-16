@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-RawlinzDesigns-blue?style=for-the-badge&logo=website">](https://itsrawlinz-jeff.github.io/rawlinzdesignsblogspot/blog/index.html)
 [<img src="https://img.shields.io/badge/GitHub-itsrawlinz--jeff-blue?style=for-the-badge&logo=github">](https://github.com/itsrawlinz-jeff)
 
-[![Rawlinz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsrawlinz-jeff&theme=tokyonight)](https://git.io/praveenscience)
+
 
 </div>
 
