@@ -1,12 +1,10 @@
 <div align='center'>
 
-# Hi there! 👋 I'm Jeffrey Rowlings :smile:
+# Jeffrey Rowlings :smile:
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px">
 
 [<img src="https://img.shields.io/badge/LinkedIn-JeffreyRowlings-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
-[<img src="https://img.shields.io/badge/Twitter-RawlinzJ-blue?style=for-the-badge&logo=twitter">](https://twitter.com/RawlinzJ)
-[<img src="https://img.shields.io/badge/Portfolio-RawlinzDesigns-blue?style=for-the-badge&logo=website">](https://itsrawlinz-jeff.github.io/rawlinzdesignsblogspot/blog/index.html)
 [<img src="https://img.shields.io/badge/GitHub-itsrawlinz--jeff-blue?style=for-the-badge&logo=github">](https://github.com/itsrawlinz-jeff)
 
 ![](https://komarev.com/ghpvc/?username=your-github-itsrawlinz-jeff&style=for-the-badge	)
@@ -23,4 +21,4 @@
 
 -----
 
-Last Edited on: 04/09/2021
+
