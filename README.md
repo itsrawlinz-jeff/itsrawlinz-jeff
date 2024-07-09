@@ -1,5 +1,5 @@
 <div align='center'>
-
+![](https://komarev.com/ghpvc/?username=itsrawlinz-jeff)
 # Hi there! 👋 I'm Jeffrey Rowlings :smile:
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px">
