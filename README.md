@@ -1,24 +1,51 @@
-<div align='center'>
+<div align="center">
 
-# Jeffrey Rowlings :smile:
+# Jeffrey Rowlings
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px">
+### Software Engineering · Systems Architecture · Artificial Intelligence
 
-[<img src="https://img.shields.io/badge/LinkedIn-JeffreyRowlings-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
-[<img src="https://img.shields.io/badge/GitHub-itsrawlinz--jeff-blue?style=for-the-badge&logo=github">](https://github.com/itsrawlinz-jeff)
-
-![](https://komarev.com/ghpvc/?username=your-github-itsrawlinz-jeff&style=for-the-badge	)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrey%20Rowlings-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
+[![GitHub](https://img.shields.io/badge/GitHub-itsrawlinz--jeff-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itsrawlinz-jeff)
+![Profile Views](https://komarev.com/ghpvc/?username=itsrawlinz-jeff\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
-| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&theme=tokyonight) | ![Rawlinz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsrawlinz-jeff&theme=tokyonight) |
-| --- | --- |
-| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrawlinz-jeff&layout=compact&theme=blue-green) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+### `// engineering domains`
+
+`Artificial Intelligence` · `Software Architecture` · `Cloud Infrastructure` · `SaaS Engineering` · `Automation` · `Enterprise Systems` · `Product Engineering`
+
+---
+
+### `// technology`
+
+`TypeScript` · `JavaScript` · `Python` · `PHP` · `React` · `Next.js` · `Laravel` · `PostgreSQL` · `Supabase` · `Docker` · `Linux` · `Cloudflare`
+
+---
+
+### `// github telemetry`
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrawlinz-jeff&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <br>
 
------
+<div align="center">
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsrawlinz-jeff&theme=tokyo-night&hide_border=true&area=true"/>
 
+</div>
+
+---
+
+<div align="center">
+
+### `Architecture. Intelligence. Infrastructure.`
+
+</div>
