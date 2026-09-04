@@ -2,7 +2,6 @@
 
 # Jeffrey Rowlings
 
-### Software Engineering · Systems Architecture · Artificial Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrey%20Rowlings-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-itsrawlinz--jeff-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itsrawlinz-jeff)
@@ -12,17 +11,6 @@
 
 ---
 
-### `// engineering domains`
-
-`Artificial Intelligence` · `Software Architecture` · `Cloud Infrastructure` · `SaaS Engineering` · `Automation` · `Enterprise Systems` · `Product Engineering`
-
----
-
-### `// technology`
-
-`TypeScript` · `JavaScript` · `Python` · `PHP` · `React` · `Next.js` · `Laravel` · `PostgreSQL` · `Supabase` · `Docker` · `Linux` · `Cloudflare`
-
----
 
 ### `// github telemetry`
 
