@@ -1,32 +1,40 @@
+
+
 <div align="center">
 
 # Jeffrey Rowlings
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrey%20Rowlings-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
-[![GitHub](https://img.shields.io/badge/GitHub-itsrawlinz--jeff-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itsrawlinz-jeff)
-![Profile Views](https://komarev.com/ghpvc/?username=itsrawlinz-jeff\&style=for-the-badge\&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-JEFFREY%20ROWLINGS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa/)
+[![GitHub](https://img.shields.io/badge/GITHUB-ITSRAWLINZ--JEFF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsrawlinz-jeff)
+![Profile Views](https://komarev.com/ghpvc/?username=itsrawlinz-jeff&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-
-### `// github telemetry`
+### `// github intelligence`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsrawlinz-jeff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrawlinz-jeff&theme=github_dark&animation=draw" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrawlinz-jeff&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsrawlinz-jeff&theme=github_dark&animation=load" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsrawlinz-jeff&theme=github_dark&animation=load" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrawlinz-jeff&theme=github_dark&animation=rise" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsrawlinz-jeff&theme=github_dark&utcOffset=3&animation=rise" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsrawlinz-jeff&theme=tokyo-night&hide_border=true&area=true"/>
+### `Architecture · Intelligence · Infrastructure`
 
 </div>
 
